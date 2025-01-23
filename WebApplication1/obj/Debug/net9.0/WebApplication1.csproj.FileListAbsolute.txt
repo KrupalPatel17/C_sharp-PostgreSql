@@ -1,0 +1,14 @@
+D:\Study\Projects\C#\WebApplication1\bin\Debug\net9.0\WebApplication1.exe
+D:\Study\Projects\C#\WebApplication1\bin\Debug\net9.0\WebApplication1.deps.json
+D:\Study\Projects\C#\WebApplication1\bin\Debug\net9.0\WebApplication1.runtimeconfig.json
+D:\Study\Projects\C#\WebApplication1\bin\Debug\net9.0\WebApplication1.dll
+D:\Study\Projects\C#\WebApplication1\bin\Debug\net9.0\WebApplication1.pdb
+D:\Study\Projects\C#\WebApplication1\obj\Debug\net9.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Projects\C#\WebApplication1\obj\Debug\net9.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Study\Projects\C#\WebApplication1\obj\Debug\net9.0\WebApplication1.AssemblyInfo.cs
+D:\Study\Projects\C#\WebApplication1\obj\Debug\net9.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Study\Projects\C#\WebApplication1\obj\Debug\net9.0\WebApplication1.dll
+D:\Study\Projects\C#\WebApplication1\obj\Debug\net9.0\refint\WebApplication1.dll
+D:\Study\Projects\C#\WebApplication1\obj\Debug\net9.0\WebApplication1.pdb
+D:\Study\Projects\C#\WebApplication1\obj\Debug\net9.0\WebApplication1.genruntimeconfig.cache
+D:\Study\Projects\C#\WebApplication1\obj\Debug\net9.0\ref\WebApplication1.dll
