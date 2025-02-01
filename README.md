@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # C_sharp-PostgreSql
-=======
+
 # Simple CRUD & Search Console Application In C# Using PostgreSql Database 
 using System;<br>
 using System.IO;
