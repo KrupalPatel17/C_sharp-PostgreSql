@@ -60,7 +60,3 @@ private static readonly string connectionString = ""Host=localhost;Port=5432;Dat
 - Npgsql for PostgreSQL connection
 - System.Data.SqlTypes
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first.
-
->>>>>>> 71371b1e1f48d5388a01954010befad41914332d
